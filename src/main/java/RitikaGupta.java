@@ -5,7 +5,7 @@ import org.hibernate.Transaction;
 import com.tka.config.HibernateConfig;
 import com.tka.entity.Employee;
 
-public class RamChadar {
+public class RitikaGupta {
 
 	public static void main(String[] args) {
 		SessionFactory sf = HibernateConfig.getSessionFactory();
